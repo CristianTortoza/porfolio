@@ -26,6 +26,8 @@ El servicio de Flufy se desarrolló utilizando diversas tecnologías y servicios
 - MongoDB + Moongose
 - and more...
 
+> Servicios
+
 - Google
 - Cloudinary
 - Mailersend
