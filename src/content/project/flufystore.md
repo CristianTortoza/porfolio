@@ -5,12 +5,13 @@ description: Low-Cost Deployment of Federated Universe Personal Instances
 dateFormatted: Nov 27th, 2023
 ---
 
-Flufy Store es la aplicación web dentro del servicio de Flufy. Esta plataforma ofrece una solución integral para gestionar todo el proceso de compra, venta y entrega. Facilita una administración comercial eficiente y personalizada, tanto para los aspectos internos de tu negocio como para las compras de tus clientes.
-![chi@miantiao.me](https://static.miantiao.me/share/nNbzS2/miantiao.me_chi.jpg)
+Esta es la aplicación web creada dentro del servicio de Flufy. Esta plataforma ofrece una solución integral para gestionar todo el proceso de compra, venta y entrega. Facilita una administración comercial eficiente y personalizada, tanto para los aspectos internos de tu negocio como para las compras de tus clientes con un gestionamiento de pedidos en tiempo real.
 
-El servicio de Flufy se desarrolló utilizando diversas tecnologías y se divide en dos proyectos principales. En esta sección encontrarás la tienda de Flufy, que se encarga de toda la administración de tu negocio, desde la gestión de productos hasta la gestión de pedidos en tiempo real.
+<a href="https://flufy.com.ar/" target="_blank" rel="noopener noreferrer">
+  <img src="/public/assets/images/projects/flufystore.png" alt="Flufy store page" />
+</a>
 
-Por otro lado, el sitio web que gestiona el equipo de trabajo, las sucursales y las suscripciones es la landing page de Flufy.
+El servicio de Flufy se desarrolló utilizando diversas tecnologías y servicios. El frontend se encuentra dividido en dos proyectos principales, en esta seccion encontrarás la tienda que ofrece Flufy
 
 > Front-end
 
@@ -23,7 +24,10 @@ Por otro lado, el sitio web que gestiona el equipo de trabajo, las sucursales y 
 
 - Node.Js + Nest.Js + TypesScript
 - MongoDB + Moongose
-
 - and more...
 
-**Entre las librerias usadas: Cloudinary, Socket.io, Swr, Zod, Yup , React-Hook-Form, Jwt, Argon2, etc.**
+- Google
+- Cloudinary
+- Mailersend
+
+**Entre las librerias usadas: Socket.io, Swr, Zod, Yup , React-Hook-Form, Jwt, Argon2, etc.**

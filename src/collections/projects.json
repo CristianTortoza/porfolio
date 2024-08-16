@@ -2,26 +2,26 @@
 	{
 		"name": "Flufy",
 		"description": "Sistema de creación de web apps, para tiendas y emprendedores.",
-		"image": "/assets/images/projects/email.ml.png",
+		"image": "/assets/images/projects/flufy.png",
 		"url": "/project/flufy"
 	},
 	{
 		"name": "Flufy Store",
 		"description": "Este es un ejemplo de sitio web creado con el sistema de Flufy.",
-		"image": "/assets/images/projects/html.zone.png",
-		"url": "https://html.zone"
+		"image": "/assets/images/projects/flufystore.png",
+		"url": "/project/flufystore"
 	},
 	{
 		"name": "Manganeta",
 		"description": "Web social, para lectores de mangas online.",
-		"image": "/assets/images/projects/dns.surf.png",
-		"url": "/project/manganta"
+		"image": "/assets/images/projects/manganeta.png",
+		"url": "/project/manganeta"
 	},
 	{
 		"name": "Newsan - Motorola",
 		"description": "Web app, de gestionamiento interno de contratos para Newsan y Motorola.",
-		"image": "/assets/images/projects/html.zone.png",
-		"url": "https://html.zone"
+		"image": "/assets/images/projects/newsan.png",
+		"url": "/project/newsan"
 	}
 	
 ]

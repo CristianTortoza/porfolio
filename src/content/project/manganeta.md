@@ -5,11 +5,14 @@ description: Browser locally uses A
 dateFormatted: Jul 14th, 2024
 ---
 
-Manganeta es una aplicación web social diseñada para la lectura de mangas en línea. Ofrece una experiencia de lectura fluida e intuitiva, permitiéndote buscar, leer, guardar y comentar tus mangas favoritos, además de mantener un historial completo de tus lecturas.
+Manganeta es una aplicación web social diseñada para la lectura de mangas en línea. Ofrece una experiencia de lectura fluida e intuitiva, permitiéndote buscar, leer, guardar, comentar tus mangas favoritos y mantener un historial completo de tus lecturas.
 
-[![Mangenta app](https://og-image.html.zone/https://html.zone/background-remover)](https://html.zone/background-remover)
+<a href="https://tiendanewsan.com.ar/" target="_blank" rel="noopener noreferrer">
+  <img src="/public/assets/images/projects/manganeta.png" alt="Manganeta page" />
+</a>
 
----
+Manganeta tienen su propia API REST, aún así los mangas estan alimentados por la API de <a href="https://mangadex.org" target="_blank" rel="noopener noreferrer">
+MangaDex</a>, que es una de las mas populares en el mundo.
 
 > Front-end
 
