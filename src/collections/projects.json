@@ -1,13 +1,13 @@
 [
 	{
 		"name": "Flufy",
-		"description": "Sistema de creación de web apps, para tiendas y emprendedores.",
+		"description": "Servicio para negocios, tiendas y emprendedores. Flufy crea una web de gestión comercial de pedidos en tiempo real.",
 		"image": "/assets/images/projects/flufy.png",
 		"url": "/project/flufy"
 	},
 	{
 		"name": "Flufy Store",
-		"description": "Este es un ejemplo de sitio web creado con el sistema de Flufy.",
+		"description": "Ejemplo de sitio web creado con el sistema de Flufy.",
 		"image": "/assets/images/projects/flufystore.png",
 		"url": "/project/flufystore"
 	},

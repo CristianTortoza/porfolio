@@ -5,9 +5,9 @@ description: Low-Cost Deployment of Federated Universe Personal Instances
 dateFormatted: Nov 27th, 2023
 ---
 
-Esta es la aplicación web creada dentro del servicio de Flufy. Esta plataforma ofrece una solución integral para gestionar todo el proceso de compra, venta y entrega. Facilita una administración comercial eficiente y personalizada, tanto para los aspectos internos de tu negocio como para las compras de tus clientes con un gestionamiento de pedidos en tiempo real.
+Aplicación web creada dentro del servicio de Flufy. Esta plataforma ofrece una solución integral para gestionar pedidos en tiempo real. Facilita una administración comercial eficiente y personalizada, tanto para los aspectos internos de tu negocio como para las compras de tus clientes y tu equipo de trabajo.
 
-<a href="https://flufy.com.ar/" target="_blank" rel="noopener noreferrer">
+<a href="https://flufy.flufy.com.ar/" target="_blank" rel="noopener noreferrer">
   <img src="/public/assets/images/projects/flufystore.png" alt="Flufy store page" />
 </a>
 

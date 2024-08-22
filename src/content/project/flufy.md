@@ -5,7 +5,7 @@ description: Low-Cost Deployment of Federated Universe Personal Instances
 dateFormatted: Nov 27th, 2023
 ---
 
-Flufy es un servicio especializado en la suscripción de una aplicacion web para empresas, tiendas y emprendedores. Tras suscribirte en Flufy, puedes personalizar la estética de tu sitio según las necesidades específicas que tengas. Esta plataforma permite gestionar de manera integral todo el proceso de compra, venta y entrega, proporcionando una solución completa para la administración comercial que facilita una gestión eficiente y personalizada de todos los aspectos de tu negocio.
+Flufy es un servicio especializado en la suscripción de una aplicacion web para empresas, tiendas y emprendedores. Tras suscribirte en Flufy, puedes personalizar la estética del sitio web que se te otorga según las necesidades específicas que tengas. Esta plataforma permite gestionar de manera integral todo el sistema de pedidos, proporcionando una solución completa para la administración comercial que facilita una gestión eficiente y personalizada de todos los aspectos de tu negocio.
 
 Además, Flufy incluye un sistema de gestión de equipos y sucursales, que permite crear roles internos para cada sucursal y administrar los productos y servicios específicos de cada una, optimizando la operativa de tu negocio.
 
