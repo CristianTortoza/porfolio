@@ -9,7 +9,7 @@ Para Newsan y Motorola, participe en la creación de una aplicación web interna
 Jedify</a>, siendo el responsable del frontend en el proyecto.
 
 <a href="https://tiendanewsan.com.ar/" target="_blank" rel="noopener noreferrer">
-  <img src="/public/assets/images/projects/newsan.png" alt="Newsan page" />
+  <img src="/assets/images/projects/newsan.png" alt="Newsan page" />
 </a>
 ---
 
