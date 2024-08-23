@@ -10,9 +10,9 @@ Flufy es un servicio especializado en la suscripción de una aplicacion web para
 Además, Flufy incluye un sistema de gestión de equipos y sucursales, que permite crear roles internos para cada sucursal y administrar los productos y servicios específicos de cada una, optimizando la operativa de tu negocio.
 
 <a href="https://flufy.com.ar/" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/images/projects/flufy.png" alt="Flufy page" />
+  <img src="/assets/images/projects/flufy.png" alt="Flufy page " class="rounded-lg" />
 </a>
-s
+
 El servicio de Flufy se desarrolló utilizando diversas tecnologías y servicios. El frontend se encuentra dividido en dos proyectos principales, esta sección es la landing page de Flufy, que es la de creación y suscripción, como tambien la plataforma de gestión de equipos y sucursales.
 
 > Front-end
